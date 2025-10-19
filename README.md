@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NipunSirimewan&label=Profile%20views&color=0e75b6&style=flat" alt="NipunSirimewan" /> </p>
 
-- 🌱 I’m currently following **Bachelor in Information Technology**
+- I am a final-year IT undergraduate student at the University of Colombo School of Computing Sri Lanka.**
 
 - 📫 How to reach me **sirimewannipun98@gmail.com**
 
